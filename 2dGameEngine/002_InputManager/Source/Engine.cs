@@ -57,12 +57,12 @@ namespace GameEngine.Source
 
         private void App_KeyReleased(object? sender, KeyEventArgs e)
         {
-            throw new NotImplementedException();
+            Input.GetKeyUp(e);
         }
 
         private void App_KeyPressed(object? sender, KeyEventArgs e)
         {
-            throw new NotImplementedException();
+            Input.GetKeyDown(e);
         }
 
         void GameLoop()
@@ -83,10 +83,15 @@ namespace GameEngine.Source
 
         public virtual void OnUpdate()
         {
-            RectangleShape shape = new RectangleShape(new Vector2f(500, 500));
+            RectangleShape shape = new RectangleShape(new Vector2f(50, 50));
             shape.FillColor = Color.Green;
             shape.Position = new Vector2f(40, 40);
             app.Draw(shape);
+
+            if (Input.ActionJustPressed("Down"))
+                Console.WriteLine("key just pressed");
+            if (Input.ActionPressed("Up"))
+                Console.WriteLine("key pressed");
         }
 
         public abstract void OnLoad();

@@ -3,16 +3,24 @@
   "WorkspaceRootPath": "D:\\Repos\\2DGameEngine\\2dGameEngine\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6D0BE4DA-0C28-4E21-9411-B7E8F0F03F64}|002_InputManager\\002_InputManager.csproj|d:\\repos\\2dgameengine\\2dgameengine\\002_inputmanager\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6D0BE4DA-0C28-4E21-9411-B7E8F0F03F64}|002_InputManager\\002_InputManager.csproj|solutionrelative:002_inputmanager\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{6D0BE4DA-0C28-4E21-9411-B7E8F0F03F64}|002_InputManager\\002_InputManager.csproj|d:\\repos\\2dgameengine\\2dgameengine\\002_inputmanager\\source\\engine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6D0BE4DA-0C28-4E21-9411-B7E8F0F03F64}|002_InputManager\\002_InputManager.csproj|solutionrelative:002_inputmanager\\source\\engine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{6D0BE4DA-0C28-4E21-9411-B7E8F0F03F64}|002_InputManager\\002_InputManager.csproj|d:\\repos\\2dgameengine\\2dgameengine\\002_inputmanager\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D0BE4DA-0C28-4E21-9411-B7E8F0F03F64}|002_InputManager\\002_InputManager.csproj|solutionrelative:002_inputmanager\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{6D0BE4DA-0C28-4E21-9411-B7E8F0F03F64}|002_InputManager\\002_InputManager.csproj|d:\\repos\\2dgameengine\\2dgameengine\\002_inputmanager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6D0BE4DA-0C28-4E21-9411-B7E8F0F03F64}|002_InputManager\\002_InputManager.csproj|solutionrelative:002_inputmanager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D0BE4DA-0C28-4E21-9411-B7E8F0F03F64}|002_InputManager\\002_InputManager.csproj|d:\\repos\\2dgameengine\\2dgameengine\\002_inputmanager\\source\\input.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D0BE4DA-0C28-4E21-9411-B7E8F0F03F64}|002_InputManager\\002_InputManager.csproj|solutionrelative:002_inputmanager\\source\\input.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D0BE4DA-0C28-4E21-9411-B7E8F0F03F64}|002_InputManager\\002_InputManager.csproj|d:\\repos\\2dgameengine\\2dgameengine\\002_inputmanager\\source\\inputactions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D0BE4DA-0C28-4E21-9411-B7E8F0F03F64}|002_InputManager\\002_InputManager.csproj|solutionrelative:002_inputmanager\\source\\inputactions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,11 +30,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Input.cs",
+              "DocumentMoniker": "D:\\Repos\\2DGameEngine\\2dGameEngine\\002_InputManager\\Source\\Input.cs",
+              "RelativeDocumentMoniker": "002_InputManager\\Source\\Input.cs",
+              "ToolTip": "D:\\Repos\\2DGameEngine\\2dGameEngine\\002_InputManager\\Source\\Input.cs",
+              "RelativeToolTip": "002_InputManager\\Source\\Input.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T10:11:42.268Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "InputActions.cs",
+              "DocumentMoniker": "D:\\Repos\\2DGameEngine\\2dGameEngine\\002_InputManager\\Source\\InputActions.cs",
+              "RelativeDocumentMoniker": "002_InputManager\\Source\\InputActions.cs",
+              "ToolTip": "D:\\Repos\\2DGameEngine\\2dGameEngine\\002_InputManager\\Source\\InputActions.cs",
+              "RelativeToolTip": "002_InputManager\\Source\\InputActions.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAqwCAAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T10:07:27.514Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -43,26 +77,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Game.cs",
               "DocumentMoniker": "D:\\Repos\\2DGameEngine\\2dGameEngine\\002_InputManager\\Game.cs",
               "RelativeDocumentMoniker": "002_InputManager\\Game.cs",
               "ToolTip": "D:\\Repos\\2DGameEngine\\2dGameEngine\\002_InputManager\\Game.cs",
               "RelativeToolTip": "002_InputManager\\Game.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAAlAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-18T09:54:44.288Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Engine.cs",
               "DocumentMoniker": "D:\\Repos\\2DGameEngine\\2dGameEngine\\002_InputManager\\Source\\Engine.cs",
               "RelativeDocumentMoniker": "002_InputManager\\Source\\Engine.cs",
               "ToolTip": "D:\\Repos\\2DGameEngine\\2dGameEngine\\002_InputManager\\Source\\Engine.cs",
               "RelativeToolTip": "002_InputManager\\Source\\Engine.cs",
-              "ViewState": "AgIAAFAAAAAAAAAAAAAswAoAAAAbAAAAAAAAAA==",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAswFkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-18T09:54:38.952Z",
               "EditorCaption": ""
