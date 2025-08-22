@@ -3,24 +3,24 @@
   "WorkspaceRootPath": "D:\\Repos\\2DGameEngine\\2dGameEngine\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{594663EE-4D6C-4076-98B9-CACCDF234E2A}|003_GameObjectClass\\003_GameObjectClass.csproj|d:\\repos\\2dgameengine\\2dgameengine\\003_gameobjectclass\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{594663EE-4D6C-4076-98B9-CACCDF234E2A}|003_GameObjectClass\\003_GameObjectClass.csproj|solutionrelative:003_gameobjectclass\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D0D88732-167E-4239-B6DE-950FBE01D6D6}|004_Shape2DClass\\004_Shape2DClass.csproj|d:\\repos\\2dgameengine\\2dgameengine\\004_shape2dclass\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0D88732-167E-4239-B6DE-950FBE01D6D6}|004_Shape2DClass\\004_Shape2DClass.csproj|solutionrelative:004_shape2dclass\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{594663EE-4D6C-4076-98B9-CACCDF234E2A}|003_GameObjectClass\\003_GameObjectClass.csproj|d:\\repos\\2dgameengine\\2dgameengine\\003_gameobjectclass\\source\\testobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{594663EE-4D6C-4076-98B9-CACCDF234E2A}|003_GameObjectClass\\003_GameObjectClass.csproj|solutionrelative:003_gameobjectclass\\source\\testobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D0D88732-167E-4239-B6DE-950FBE01D6D6}|004_Shape2DClass\\004_Shape2DClass.csproj|d:\\repos\\2dgameengine\\2dgameengine\\004_shape2dclass\\source\\engine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0D88732-167E-4239-B6DE-950FBE01D6D6}|004_Shape2DClass\\004_Shape2DClass.csproj|solutionrelative:004_shape2dclass\\source\\engine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{594663EE-4D6C-4076-98B9-CACCDF234E2A}|003_GameObjectClass\\003_GameObjectClass.csproj|d:\\repos\\2dgameengine\\2dgameengine\\003_gameobjectclass\\source\\engine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{594663EE-4D6C-4076-98B9-CACCDF234E2A}|003_GameObjectClass\\003_GameObjectClass.csproj|solutionrelative:003_gameobjectclass\\source\\engine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D0D88732-167E-4239-B6DE-950FBE01D6D6}|004_Shape2DClass\\004_Shape2DClass.csproj|d:\\repos\\2dgameengine\\2dgameengine\\004_shape2dclass\\source\\shape2d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0D88732-167E-4239-B6DE-950FBE01D6D6}|004_Shape2DClass\\004_Shape2DClass.csproj|solutionrelative:004_shape2dclass\\source\\shape2d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{594663EE-4D6C-4076-98B9-CACCDF234E2A}|003_GameObjectClass\\003_GameObjectClass.csproj|d:\\repos\\2dgameengine\\2dgameengine\\003_gameobjectclass\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{594663EE-4D6C-4076-98B9-CACCDF234E2A}|003_GameObjectClass\\003_GameObjectClass.csproj|solutionrelative:003_gameobjectclass\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D0D88732-167E-4239-B6DE-950FBE01D6D6}|004_Shape2DClass\\004_Shape2DClass.csproj|d:\\repos\\2dgameengine\\2dgameengine\\004_shape2dclass\\source\\gameobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0D88732-167E-4239-B6DE-950FBE01D6D6}|004_Shape2DClass\\004_Shape2DClass.csproj|solutionrelative:004_shape2dclass\\source\\gameobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{594663EE-4D6C-4076-98B9-CACCDF234E2A}|003_GameObjectClass\\003_GameObjectClass.csproj|d:\\repos\\2dgameengine\\2dgameengine\\003_gameobjectclass\\source\\gameobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{594663EE-4D6C-4076-98B9-CACCDF234E2A}|003_GameObjectClass\\003_GameObjectClass.csproj|solutionrelative:003_gameobjectclass\\source\\gameobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D0D88732-167E-4239-B6DE-950FBE01D6D6}|004_Shape2DClass\\004_Shape2DClass.csproj|d:\\repos\\2dgameengine\\2dgameengine\\004_shape2dclass\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0D88732-167E-4239-B6DE-950FBE01D6D6}|004_Shape2DClass\\004_Shape2DClass.csproj|solutionrelative:004_shape2dclass\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,67 +38,67 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "TestObject.cs",
-              "DocumentMoniker": "D:\\Repos\\2DGameEngine\\2dGameEngine\\003_GameObjectClass\\Source\\TestObject.cs",
-              "RelativeDocumentMoniker": "003_GameObjectClass\\Source\\TestObject.cs",
-              "ToolTip": "D:\\Repos\\2DGameEngine\\2dGameEngine\\003_GameObjectClass\\Source\\TestObject.cs",
-              "RelativeToolTip": "003_GameObjectClass\\Source\\TestObject.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-22T15:44:14.384Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Game.cs",
-              "DocumentMoniker": "D:\\Repos\\2DGameEngine\\2dGameEngine\\003_GameObjectClass\\Game.cs",
-              "RelativeDocumentMoniker": "003_GameObjectClass\\Game.cs",
-              "ToolTip": "D:\\Repos\\2DGameEngine\\2dGameEngine\\003_GameObjectClass\\Game.cs",
-              "RelativeToolTip": "003_GameObjectClass\\Game.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAiwBUAAAAqAAAAAAAAAA==",
+              "DocumentMoniker": "D:\\Repos\\2DGameEngine\\2dGameEngine\\004_Shape2DClass\\Game.cs",
+              "RelativeDocumentMoniker": "004_Shape2DClass\\Game.cs",
+              "ToolTip": "D:\\Repos\\2DGameEngine\\2dGameEngine\\004_Shape2DClass\\Game.cs",
+              "RelativeToolTip": "004_Shape2DClass\\Game.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-22T15:17:41.146Z",
+              "WhenOpened": "2025-08-22T17:03:10.879Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Engine.cs",
-              "DocumentMoniker": "D:\\Repos\\2DGameEngine\\2dGameEngine\\003_GameObjectClass\\Source\\Engine.cs",
-              "RelativeDocumentMoniker": "003_GameObjectClass\\Source\\Engine.cs",
-              "ToolTip": "D:\\Repos\\2DGameEngine\\2dGameEngine\\003_GameObjectClass\\Source\\Engine.cs",
-              "RelativeToolTip": "003_GameObjectClass\\Source\\Engine.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAABUAAAAAAAAAA==",
+              "Title": "Shape2D.cs",
+              "DocumentMoniker": "D:\\Repos\\2DGameEngine\\2dGameEngine\\004_Shape2DClass\\Source\\Shape2D.cs",
+              "RelativeDocumentMoniker": "004_Shape2DClass\\Source\\Shape2D.cs",
+              "ToolTip": "D:\\Repos\\2DGameEngine\\2dGameEngine\\004_Shape2DClass\\Source\\Shape2D.cs",
+              "RelativeToolTip": "004_Shape2DClass\\Source\\Shape2D.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAIwDsAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-22T14:53:49.796Z",
+              "WhenOpened": "2025-08-22T16:52:50.556Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "GameObject.cs",
-              "DocumentMoniker": "D:\\Repos\\2DGameEngine\\2dGameEngine\\003_GameObjectClass\\Source\\GameObject.cs",
-              "RelativeDocumentMoniker": "003_GameObjectClass\\Source\\GameObject.cs",
-              "ToolTip": "D:\\Repos\\2DGameEngine\\2dGameEngine\\003_GameObjectClass\\Source\\GameObject.cs",
-              "RelativeToolTip": "003_GameObjectClass\\Source\\GameObject.cs",
-              "ViewState": "AgIAACkAAAAAAAAAAAA0wDQAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "Engine.cs",
+              "DocumentMoniker": "D:\\Repos\\2DGameEngine\\2dGameEngine\\004_Shape2DClass\\Source\\Engine.cs",
+              "RelativeDocumentMoniker": "004_Shape2DClass\\Source\\Engine.cs",
+              "ToolTip": "D:\\Repos\\2DGameEngine\\2dGameEngine\\004_Shape2DClass\\Source\\Engine.cs",
+              "RelativeToolTip": "004_Shape2DClass\\Source\\Engine.cs",
+              "ViewState": "AgIAAG8AAAAAAAAAAADwv18AAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-22T14:41:24.638Z",
+              "WhenOpened": "2025-08-22T16:36:46.31Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "GameObject.cs",
+              "DocumentMoniker": "D:\\Repos\\2DGameEngine\\2dGameEngine\\004_Shape2DClass\\Source\\GameObject.cs",
+              "RelativeDocumentMoniker": "004_Shape2DClass\\Source\\GameObject.cs",
+              "ToolTip": "D:\\Repos\\2DGameEngine\\2dGameEngine\\004_Shape2DClass\\Source\\GameObject.cs",
+              "RelativeToolTip": "004_Shape2DClass\\Source\\GameObject.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAA0wCsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T16:27:05.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Repos\\2DGameEngine\\2dGameEngine\\003_GameObjectClass\\Program.cs",
-              "RelativeDocumentMoniker": "003_GameObjectClass\\Program.cs",
-              "ToolTip": "D:\\Repos\\2DGameEngine\\2dGameEngine\\003_GameObjectClass\\Program.cs",
-              "RelativeToolTip": "003_GameObjectClass\\Program.cs",
+              "DocumentMoniker": "D:\\Repos\\2DGameEngine\\2dGameEngine\\004_Shape2DClass\\Program.cs",
+              "RelativeDocumentMoniker": "004_Shape2DClass\\Program.cs",
+              "ToolTip": "D:\\Repos\\2DGameEngine\\2dGameEngine\\004_Shape2DClass\\Program.cs",
+              "RelativeToolTip": "004_Shape2DClass\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-22T14:39:38.477Z",
+              "WhenOpened": "2025-08-22T16:25:24.006Z",
               "EditorCaption": ""
             }
           ]
