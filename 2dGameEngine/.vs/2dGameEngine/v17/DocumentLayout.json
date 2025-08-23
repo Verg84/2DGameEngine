@@ -1,28 +1,7 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\Repos\\2DGameEngine\\2dGameEngine\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{B5F25198-1D5A-4040-B2AC-104D9F95C37E}|005_SpriteClass\\005_SpriteClass.csproj|d:\\repos\\2dgameengine\\2dgameengine\\005_spriteclass\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B5F25198-1D5A-4040-B2AC-104D9F95C37E}|005_SpriteClass\\005_SpriteClass.csproj|solutionrelative:005_spriteclass\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B5F25198-1D5A-4040-B2AC-104D9F95C37E}|005_SpriteClass\\005_SpriteClass.csproj|d:\\repos\\2dgameengine\\2dgameengine\\005_spriteclass\\source\\sprite2d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B5F25198-1D5A-4040-B2AC-104D9F95C37E}|005_SpriteClass\\005_SpriteClass.csproj|solutionrelative:005_spriteclass\\source\\sprite2d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B5F25198-1D5A-4040-B2AC-104D9F95C37E}|005_SpriteClass\\005_SpriteClass.csproj|d:\\repos\\2dgameengine\\2dgameengine\\005_spriteclass\\source\\gameobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B5F25198-1D5A-4040-B2AC-104D9F95C37E}|005_SpriteClass\\005_SpriteClass.csproj|solutionrelative:005_spriteclass\\source\\gameobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B5F25198-1D5A-4040-B2AC-104D9F95C37E}|005_SpriteClass\\005_SpriteClass.csproj|d:\\repos\\2dgameengine\\2dgameengine\\005_spriteclass\\source\\engine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B5F25198-1D5A-4040-B2AC-104D9F95C37E}|005_SpriteClass\\005_SpriteClass.csproj|solutionrelative:005_spriteclass\\source\\engine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B5F25198-1D5A-4040-B2AC-104D9F95C37E}|005_SpriteClass\\005_SpriteClass.csproj|d:\\repos\\2dgameengine\\2dgameengine\\005_spriteclass\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B5F25198-1D5A-4040-B2AC-104D9F95C37E}|005_SpriteClass\\005_SpriteClass.csproj|solutionrelative:005_spriteclass\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -30,76 +9,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Sprite2D.cs",
-              "DocumentMoniker": "D:\\Repos\\2DGameEngine\\2dGameEngine\\005_SpriteClass\\Source\\Sprite2D.cs",
-              "RelativeDocumentMoniker": "005_SpriteClass\\Source\\Sprite2D.cs",
-              "ToolTip": "D:\\Repos\\2DGameEngine\\2dGameEngine\\005_SpriteClass\\Source\\Sprite2D.cs",
-              "RelativeToolTip": "005_SpriteClass\\Source\\Sprite2D.cs",
-              "ViewState": "AgIAACkAAAAAAAAAAAA0wDcAAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-23T10:22:09.585Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Game.cs",
-              "DocumentMoniker": "D:\\Repos\\2DGameEngine\\2dGameEngine\\005_SpriteClass\\Game.cs",
-              "RelativeDocumentMoniker": "005_SpriteClass\\Game.cs",
-              "ToolTip": "D:\\Repos\\2DGameEngine\\2dGameEngine\\005_SpriteClass\\Game.cs",
-              "RelativeToolTip": "005_SpriteClass\\Game.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAzwCMAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-23T10:07:08.745Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Engine.cs",
-              "DocumentMoniker": "D:\\Repos\\2DGameEngine\\2dGameEngine\\005_SpriteClass\\Source\\Engine.cs",
-              "RelativeDocumentMoniker": "005_SpriteClass\\Source\\Engine.cs",
-              "ToolTip": "D:\\Repos\\2DGameEngine\\2dGameEngine\\005_SpriteClass\\Source\\Engine.cs",
-              "RelativeToolTip": "005_SpriteClass\\Source\\Engine.cs",
-              "ViewState": "AgIAAFAAAAAAAAAAAAAswF4AAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-23T09:45:20.388Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "GameObject.cs",
-              "DocumentMoniker": "D:\\Repos\\2DGameEngine\\2dGameEngine\\005_SpriteClass\\Source\\GameObject.cs",
-              "RelativeDocumentMoniker": "005_SpriteClass\\Source\\GameObject.cs",
-              "ToolTip": "D:\\Repos\\2DGameEngine\\2dGameEngine\\005_SpriteClass\\Source\\GameObject.cs",
-              "RelativeToolTip": "005_SpriteClass\\Source\\GameObject.cs",
-              "ViewState": "AgIAAB8AAAAAAAAAAAAwwCkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-23T09:24:37.751Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Repos\\2DGameEngine\\2dGameEngine\\005_SpriteClass\\Program.cs",
-              "RelativeDocumentMoniker": "005_SpriteClass\\Program.cs",
-              "ToolTip": "D:\\Repos\\2DGameEngine\\2dGameEngine\\005_SpriteClass\\Program.cs",
-              "RelativeToolTip": "005_SpriteClass\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-23T08:04:42.779Z",
-              "EditorCaption": ""
             }
           ]
         }
