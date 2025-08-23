@@ -4,3 +4,5 @@ Game Engine created with C_sharp
 
 - 001 Rendering Window
 - 002 Input Manager
+- 003 GameObject Class
+- 004 Sprite Class
