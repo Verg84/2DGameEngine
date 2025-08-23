@@ -6,3 +6,4 @@ Game Engine created with C_sharp
 - 002 Input Manager
 - 003 GameObject Class
 - 004 Shape2D Class
+- 005 Sprite2S Class
