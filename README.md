@@ -7,3 +7,4 @@ Game Engine created with C_sharp
 - 003 GameObject Class
 - 004 Shape2D Class
 - 005 Sprite2D Class
+- 006 PlayerClass
