@@ -135,7 +135,10 @@ namespace GameEngine.Source
 
         public virtual void OnUpate()
         {
-
+            if (Input.ActionPressing("Down"))
+                Log.Info("key pressing");
+            if (Input.ActionPressed("Up"))
+                Log.Info("key pressed");
         }
 
         public abstract void OnLoad();

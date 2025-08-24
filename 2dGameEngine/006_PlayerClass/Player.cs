@@ -40,10 +40,10 @@ namespace GameEngine
 
         public override void OnUpdate()
         {
-            if (Input.ActionPressed("Left"))
-                this.Position.x -= 10;
-            if (Input.ActionPressed("Right"))
-                this.Position.x += 10;
+            if (Input.ActionPressing("Left"))
+                this.Position.x -=1*0.01f;
+            else if (Input.ActionPressing("Right"))
+                this.Position.x += 1* 0.01f;
         }
     }
 }

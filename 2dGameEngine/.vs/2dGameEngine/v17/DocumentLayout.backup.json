@@ -11,12 +11,24 @@
       "RelativeMoniker": "D:0:0:{9A307F8F-A28C-422F-B359-EE1DBFD18AA8}|006_PlayerClass\\006_PlayerClass.csproj|solutionrelative:006_playerclass\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9A307F8F-A28C-422F-B359-EE1DBFD18AA8}|006_PlayerClass\\006_PlayerClass.csproj|d:\\repos\\2dgameengine\\2dgameengine\\006_playerclass\\source\\engine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9A307F8F-A28C-422F-B359-EE1DBFD18AA8}|006_PlayerClass\\006_PlayerClass.csproj|solutionrelative:006_playerclass\\source\\engine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9A307F8F-A28C-422F-B359-EE1DBFD18AA8}|006_PlayerClass\\006_PlayerClass.csproj|d:\\repos\\2dgameengine\\2dgameengine\\006_playerclass\\source\\time.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A307F8F-A28C-422F-B359-EE1DBFD18AA8}|006_PlayerClass\\006_PlayerClass.csproj|solutionrelative:006_playerclass\\source\\time.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A307F8F-A28C-422F-B359-EE1DBFD18AA8}|006_PlayerClass\\006_PlayerClass.csproj|d:\\repos\\2dgameengine\\2dgameengine\\006_playerclass\\source\\inputaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A307F8F-A28C-422F-B359-EE1DBFD18AA8}|006_PlayerClass\\006_PlayerClass.csproj|solutionrelative:006_playerclass\\source\\inputaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A307F8F-A28C-422F-B359-EE1DBFD18AA8}|006_PlayerClass\\006_PlayerClass.csproj|d:\\repos\\2dgameengine\\2dgameengine\\006_playerclass\\source\\input.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A307F8F-A28C-422F-B359-EE1DBFD18AA8}|006_PlayerClass\\006_PlayerClass.csproj|solutionrelative:006_playerclass\\source\\input.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9A307F8F-A28C-422F-B359-EE1DBFD18AA8}|006_PlayerClass\\006_PlayerClass.csproj|d:\\repos\\2dgameengine\\2dgameengine\\006_playerclass\\source\\sprite2d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9A307F8F-A28C-422F-B359-EE1DBFD18AA8}|006_PlayerClass\\006_PlayerClass.csproj|solutionrelative:006_playerclass\\source\\sprite2d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A307F8F-A28C-422F-B359-EE1DBFD18AA8}|006_PlayerClass\\006_PlayerClass.csproj|d:\\repos\\2dgameengine\\2dgameengine\\006_playerclass\\source\\engine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A307F8F-A28C-422F-B359-EE1DBFD18AA8}|006_PlayerClass\\006_PlayerClass.csproj|solutionrelative:006_playerclass\\source\\engine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9A307F8F-A28C-422F-B359-EE1DBFD18AA8}|006_PlayerClass\\006_PlayerClass.csproj|d:\\repos\\2dgameengine\\2dgameengine\\006_playerclass\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -34,11 +46,47 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Input.cs",
+              "DocumentMoniker": "D:\\Repos\\2DGameEngine\\2dGameEngine\\006_PlayerClass\\Source\\Input.cs",
+              "RelativeDocumentMoniker": "006_PlayerClass\\Source\\Input.cs",
+              "ToolTip": "D:\\Repos\\2DGameEngine\\2dGameEngine\\006_PlayerClass\\Source\\Input.cs",
+              "RelativeToolTip": "006_PlayerClass\\Source\\Input.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-24T09:22:05.692Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "InputAction.cs",
+              "DocumentMoniker": "D:\\Repos\\2DGameEngine\\2dGameEngine\\006_PlayerClass\\Source\\InputAction.cs",
+              "RelativeDocumentMoniker": "006_PlayerClass\\Source\\InputAction.cs",
+              "ToolTip": "D:\\Repos\\2DGameEngine\\2dGameEngine\\006_PlayerClass\\Source\\InputAction.cs",
+              "RelativeToolTip": "006_PlayerClass\\Source\\InputAction.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-24T09:22:01.973Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Time.cs",
+              "DocumentMoniker": "D:\\Repos\\2DGameEngine\\2dGameEngine\\006_PlayerClass\\Source\\Time.cs",
+              "RelativeDocumentMoniker": "006_PlayerClass\\Source\\Time.cs",
+              "ToolTip": "D:\\Repos\\2DGameEngine\\2dGameEngine\\006_PlayerClass\\Source\\Time.cs",
+              "RelativeToolTip": "006_PlayerClass\\Source\\Time.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-24T09:07:30.893Z"
             },
             {
               "$type": "Document",
@@ -48,10 +96,9 @@
               "RelativeDocumentMoniker": "006_PlayerClass\\Game.cs",
               "ToolTip": "D:\\Repos\\2DGameEngine\\2dGameEngine\\006_PlayerClass\\Game.cs",
               "RelativeToolTip": "006_PlayerClass\\Game.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABAAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-23T21:27:29.062Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-23T21:27:29.062Z"
             },
             {
               "$type": "Document",
@@ -61,14 +108,14 @@
               "RelativeDocumentMoniker": "006_PlayerClass\\Player.cs",
               "ToolTip": "D:\\Repos\\2DGameEngine\\2dGameEngine\\006_PlayerClass\\Player.cs",
               "RelativeToolTip": "006_PlayerClass\\Player.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAcwCEAAAAlAAAAAAAAAA==",
+              "ViewState": "AgIAABAAAAAAAAAAAAAkwC0AAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-23T21:22:54.236Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Sprite2D.cs",
               "DocumentMoniker": "D:\\Repos\\2DGameEngine\\2dGameEngine\\006_PlayerClass\\Source\\Sprite2D.cs",
               "RelativeDocumentMoniker": "006_PlayerClass\\Source\\Sprite2D.cs",
@@ -76,25 +123,23 @@
               "RelativeToolTip": "006_PlayerClass\\Source\\Sprite2D.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAAAkAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-23T21:21:18.775Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-23T21:21:18.775Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "Engine.cs",
               "DocumentMoniker": "D:\\Repos\\2DGameEngine\\2dGameEngine\\006_PlayerClass\\Source\\Engine.cs",
               "RelativeDocumentMoniker": "006_PlayerClass\\Source\\Engine.cs",
               "ToolTip": "D:\\Repos\\2DGameEngine\\2dGameEngine\\006_PlayerClass\\Source\\Engine.cs",
               "RelativeToolTip": "006_PlayerClass\\Source\\Engine.cs",
-              "ViewState": "AgIAADwAAAAAAAAAAADwv0MAAAAbAAAAAAAAAA==",
+              "ViewState": "AgIAAEYAAAAAAAAAAAA0wIoAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-23T20:59:52.341Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-23T20:59:52.341Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "GameObject.cs",
               "DocumentMoniker": "D:\\Repos\\2DGameEngine\\2dGameEngine\\006_PlayerClass\\Source\\GameObject.cs",
               "RelativeDocumentMoniker": "006_PlayerClass\\Source\\GameObject.cs",
@@ -102,12 +147,11 @@
               "RelativeToolTip": "006_PlayerClass\\Source\\GameObject.cs",
               "ViewState": "AgIAABoAAAAAAAAAAAAswAcAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-23T20:49:44.878Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-23T20:49:44.878Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Repos\\2DGameEngine\\2dGameEngine\\006_PlayerClass\\Program.cs",
               "RelativeDocumentMoniker": "006_PlayerClass\\Program.cs",
@@ -115,8 +159,7 @@
               "RelativeToolTip": "006_PlayerClass\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-23T20:48:41.384Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-23T20:48:41.384Z"
             }
           ]
         }
