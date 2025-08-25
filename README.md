@@ -9,3 +9,4 @@ Game Engine created with C_sharp
 - 005 Sprite2D Class
 - 006 PlayerClass
 - 007 Animations
+- 008 Camera Class

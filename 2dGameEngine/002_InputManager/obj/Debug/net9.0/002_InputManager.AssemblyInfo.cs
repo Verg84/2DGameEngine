@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("002_InputManager")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+08d62043f10b60a4a52dd6348499a29d57c3ce44")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b80bd272920dbce3871cbff59bb90de9efb58ab4")]
 [assembly: System.Reflection.AssemblyProductAttribute("002_InputManager")]
 [assembly: System.Reflection.AssemblyTitleAttribute("002_InputManager")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

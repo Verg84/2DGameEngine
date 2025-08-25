@@ -3,32 +3,32 @@
   "WorkspaceRootPath": "D:\\Repos\\2DGameEngine\\2dGameEngine\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4494A3BD-2815-459C-B1DA-808EB42EAFBE}|007_Animation2D\\007_Animation2D.csproj|d:\\repos\\2dgameengine\\2dgameengine\\007_animation2d\\source\\engine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4494A3BD-2815-459C-B1DA-808EB42EAFBE}|007_Animation2D\\007_Animation2D.csproj|solutionrelative:007_animation2d\\source\\engine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{461ECBDA-59D9-48DB-B697-9507E6C42BC9}|008_CameraClass\\008_CameraClass.csproj|d:\\repos\\2dgameengine\\2dgameengine\\008_cameraclass\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{461ECBDA-59D9-48DB-B697-9507E6C42BC9}|008_CameraClass\\008_CameraClass.csproj|solutionrelative:008_cameraclass\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4494A3BD-2815-459C-B1DA-808EB42EAFBE}|007_Animation2D\\007_Animation2D.csproj|d:\\repos\\2dgameengine\\2dgameengine\\007_animation2d\\source\\gameobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4494A3BD-2815-459C-B1DA-808EB42EAFBE}|007_Animation2D\\007_Animation2D.csproj|solutionrelative:007_animation2d\\source\\gameobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{461ECBDA-59D9-48DB-B697-9507E6C42BC9}|008_CameraClass\\008_CameraClass.csproj|d:\\repos\\2dgameengine\\2dgameengine\\008_cameraclass\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{461ECBDA-59D9-48DB-B697-9507E6C42BC9}|008_CameraClass\\008_CameraClass.csproj|solutionrelative:008_cameraclass\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4494A3BD-2815-459C-B1DA-808EB42EAFBE}|007_Animation2D\\007_Animation2D.csproj|d:\\repos\\2dgameengine\\2dgameengine\\007_animation2d\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4494A3BD-2815-459C-B1DA-808EB42EAFBE}|007_Animation2D\\007_Animation2D.csproj|solutionrelative:007_animation2d\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{461ECBDA-59D9-48DB-B697-9507E6C42BC9}|008_CameraClass\\008_CameraClass.csproj|d:\\repos\\2dgameengine\\2dgameengine\\008_cameraclass\\source\\camera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{461ECBDA-59D9-48DB-B697-9507E6C42BC9}|008_CameraClass\\008_CameraClass.csproj|solutionrelative:008_cameraclass\\source\\camera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4494A3BD-2815-459C-B1DA-808EB42EAFBE}|007_Animation2D\\007_Animation2D.csproj|d:\\repos\\2dgameengine\\2dgameengine\\007_animation2d\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4494A3BD-2815-459C-B1DA-808EB42EAFBE}|007_Animation2D\\007_Animation2D.csproj|solutionrelative:007_animation2d\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{461ECBDA-59D9-48DB-B697-9507E6C42BC9}|008_CameraClass\\008_CameraClass.csproj|d:\\repos\\2dgameengine\\2dgameengine\\008_cameraclass\\source\\engine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{461ECBDA-59D9-48DB-B697-9507E6C42BC9}|008_CameraClass\\008_CameraClass.csproj|solutionrelative:008_cameraclass\\source\\engine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4494A3BD-2815-459C-B1DA-808EB42EAFBE}|007_Animation2D\\007_Animation2D.csproj|d:\\repos\\2dgameengine\\2dgameengine\\007_animation2d\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4494A3BD-2815-459C-B1DA-808EB42EAFBE}|007_Animation2D\\007_Animation2D.csproj|solutionrelative:007_animation2d\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{461ECBDA-59D9-48DB-B697-9507E6C42BC9}|008_CameraClass\\008_CameraClass.csproj|d:\\repos\\2dgameengine\\2dgameengine\\008_cameraclass\\source\\animation2d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{461ECBDA-59D9-48DB-B697-9507E6C42BC9}|008_CameraClass\\008_CameraClass.csproj|solutionrelative:008_cameraclass\\source\\animation2d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4494A3BD-2815-459C-B1DA-808EB42EAFBE}|007_Animation2D\\007_Animation2D.csproj|d:\\repos\\2dgameengine\\2dgameengine\\007_animation2d\\source\\animatedsprite2d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4494A3BD-2815-459C-B1DA-808EB42EAFBE}|007_Animation2D\\007_Animation2D.csproj|solutionrelative:007_animation2d\\source\\animatedsprite2d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{461ECBDA-59D9-48DB-B697-9507E6C42BC9}|008_CameraClass\\008_CameraClass.csproj|d:\\repos\\2dgameengine\\2dgameengine\\008_cameraclass\\source\\animatedsprite2d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{461ECBDA-59D9-48DB-B697-9507E6C42BC9}|008_CameraClass\\008_CameraClass.csproj|solutionrelative:008_cameraclass\\source\\animatedsprite2d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4494A3BD-2815-459C-B1DA-808EB42EAFBE}|007_Animation2D\\007_Animation2D.csproj|d:\\repos\\2dgameengine\\2dgameengine\\007_animation2d\\source\\animation2d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4494A3BD-2815-459C-B1DA-808EB42EAFBE}|007_Animation2D\\007_Animation2D.csproj|solutionrelative:007_animation2d\\source\\animation2d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{461ECBDA-59D9-48DB-B697-9507E6C42BC9}|008_CameraClass\\008_CameraClass.csproj|d:\\repos\\2dgameengine\\2dgameengine\\008_cameraclass\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{461ECBDA-59D9-48DB-B697-9507E6C42BC9}|008_CameraClass\\008_CameraClass.csproj|solutionrelative:008_cameraclass\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -47,92 +47,92 @@
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "Game.cs",
-              "DocumentMoniker": "D:\\Repos\\2DGameEngine\\2dGameEngine\\007_Animation2D\\Game.cs",
-              "RelativeDocumentMoniker": "007_Animation2D\\Game.cs",
-              "ToolTip": "D:\\Repos\\2DGameEngine\\2dGameEngine\\007_Animation2D\\Game.cs",
-              "RelativeToolTip": "007_Animation2D\\Game.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Title": "Animation2D.cs",
+              "DocumentMoniker": "D:\\Repos\\2DGameEngine\\2dGameEngine\\008_CameraClass\\Source\\Animation2D.cs",
+              "RelativeDocumentMoniker": "008_CameraClass\\Source\\Animation2D.cs",
+              "ToolTip": "D:\\Repos\\2DGameEngine\\2dGameEngine\\008_CameraClass\\Source\\Animation2D.cs",
+              "RelativeToolTip": "008_CameraClass\\Source\\Animation2D.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAswAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-24T17:51:23.66Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Player.cs",
-              "DocumentMoniker": "D:\\Repos\\2DGameEngine\\2dGameEngine\\007_Animation2D\\Player.cs",
-              "RelativeDocumentMoniker": "007_Animation2D\\Player.cs",
-              "ToolTip": "D:\\Repos\\2DGameEngine\\2dGameEngine\\007_Animation2D\\Player.cs",
-              "RelativeToolTip": "007_Animation2D\\Player.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADMAAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-24T17:46:08.632Z",
+              "WhenOpened": "2025-08-25T18:02:12.172Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "AnimatedSprite2D.cs",
-              "DocumentMoniker": "D:\\Repos\\2DGameEngine\\2dGameEngine\\007_Animation2D\\Source\\AnimatedSprite2D.cs",
-              "RelativeDocumentMoniker": "007_Animation2D\\Source\\AnimatedSprite2D.cs",
-              "ToolTip": "D:\\Repos\\2DGameEngine\\2dGameEngine\\007_Animation2D\\Source\\AnimatedSprite2D.cs",
-              "RelativeToolTip": "007_Animation2D\\Source\\AnimatedSprite2D.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAF4AAAA5AAAAAAAAAA==",
+              "DocumentMoniker": "D:\\Repos\\2DGameEngine\\2dGameEngine\\008_CameraClass\\Source\\AnimatedSprite2D.cs",
+              "RelativeDocumentMoniker": "008_CameraClass\\Source\\AnimatedSprite2D.cs",
+              "ToolTip": "D:\\Repos\\2DGameEngine\\2dGameEngine\\008_CameraClass\\Source\\AnimatedSprite2D.cs",
+              "RelativeToolTip": "008_CameraClass\\Source\\AnimatedSprite2D.cs",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAuwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-24T17:00:35.171Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Animation2D.cs",
-              "DocumentMoniker": "D:\\Repos\\2DGameEngine\\2dGameEngine\\007_Animation2D\\Source\\Animation2D.cs",
-              "RelativeDocumentMoniker": "007_Animation2D\\Source\\Animation2D.cs",
-              "ToolTip": "D:\\Repos\\2DGameEngine\\2dGameEngine\\007_Animation2D\\Source\\Animation2D.cs",
-              "RelativeToolTip": "007_Animation2D\\Source\\Animation2D.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAAAswCUAAAAxAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-24T16:52:07.577Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Engine.cs",
-              "DocumentMoniker": "D:\\Repos\\2DGameEngine\\2dGameEngine\\007_Animation2D\\Source\\Engine.cs",
-              "RelativeDocumentMoniker": "007_Animation2D\\Source\\Engine.cs",
-              "ToolTip": "D:\\Repos\\2DGameEngine\\2dGameEngine\\007_Animation2D\\Source\\Engine.cs",
-              "RelativeToolTip": "007_Animation2D\\Source\\Engine.cs",
-              "ViewState": "AgIAACEAAAAAAAAAAAAAACwAAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-24T16:27:33.408Z",
+              "WhenOpened": "2025-08-25T18:02:05.107Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "GameObject.cs",
-              "DocumentMoniker": "D:\\Repos\\2DGameEngine\\2dGameEngine\\007_Animation2D\\Source\\GameObject.cs",
-              "RelativeDocumentMoniker": "007_Animation2D\\Source\\GameObject.cs",
-              "ToolTip": "D:\\Repos\\2DGameEngine\\2dGameEngine\\007_Animation2D\\Source\\GameObject.cs",
-              "RelativeToolTip": "007_Animation2D\\Source\\GameObject.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAYwEUAAAAAAAAAAAAAAA==",
+              "Title": "Player.cs",
+              "DocumentMoniker": "D:\\Repos\\2DGameEngine\\2dGameEngine\\008_CameraClass\\Player.cs",
+              "RelativeDocumentMoniker": "008_CameraClass\\Player.cs",
+              "ToolTip": "D:\\Repos\\2DGameEngine\\2dGameEngine\\008_CameraClass\\Player.cs",
+              "RelativeToolTip": "008_CameraClass\\Player.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAswCoAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-24T16:00:32.191Z",
+              "WhenOpened": "2025-08-25T18:00:16.921Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Engine.cs",
+              "DocumentMoniker": "D:\\Repos\\2DGameEngine\\2dGameEngine\\008_CameraClass\\Source\\Engine.cs",
+              "RelativeDocumentMoniker": "008_CameraClass\\Source\\Engine.cs",
+              "ToolTip": "D:\\Repos\\2DGameEngine\\2dGameEngine\\008_CameraClass\\Source\\Engine.cs",
+              "RelativeToolTip": "008_CameraClass\\Source\\Engine.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAQwDEAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T17:49:49.809Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "Camera.cs",
+              "DocumentMoniker": "D:\\Repos\\2DGameEngine\\2dGameEngine\\008_CameraClass\\Source\\Camera.cs",
+              "RelativeDocumentMoniker": "008_CameraClass\\Source\\Camera.cs",
+              "ToolTip": "D:\\Repos\\2DGameEngine\\2dGameEngine\\008_CameraClass\\Source\\Camera.cs",
+              "RelativeToolTip": "008_CameraClass\\Source\\Camera.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAswBwAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T17:47:38.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Game.cs",
+              "DocumentMoniker": "D:\\Repos\\2DGameEngine\\2dGameEngine\\008_CameraClass\\Game.cs",
+              "RelativeDocumentMoniker": "008_CameraClass\\Game.cs",
+              "ToolTip": "D:\\Repos\\2DGameEngine\\2dGameEngine\\008_CameraClass\\Game.cs",
+              "RelativeToolTip": "008_CameraClass\\Game.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAiwBQAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T17:45:33.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Repos\\2DGameEngine\\2dGameEngine\\007_Animation2D\\Program.cs",
-              "RelativeDocumentMoniker": "007_Animation2D\\Program.cs",
-              "ToolTip": "D:\\Repos\\2DGameEngine\\2dGameEngine\\007_Animation2D\\Program.cs",
-              "RelativeToolTip": "007_Animation2D\\Program.cs",
+              "DocumentMoniker": "D:\\Repos\\2DGameEngine\\2dGameEngine\\008_CameraClass\\Program.cs",
+              "RelativeDocumentMoniker": "008_CameraClass\\Program.cs",
+              "ToolTip": "D:\\Repos\\2DGameEngine\\2dGameEngine\\008_CameraClass\\Program.cs",
+              "RelativeToolTip": "008_CameraClass\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-24T15:58:30.447Z",
+              "WhenOpened": "2025-08-25T17:42:59.306Z",
               "EditorCaption": ""
             }
           ]

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("004_Shape2DClass")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+08d62043f10b60a4a52dd6348499a29d57c3ce44")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b80bd272920dbce3871cbff59bb90de9efb58ab4")]
 [assembly: System.Reflection.AssemblyProductAttribute("004_Shape2DClass")]
 [assembly: System.Reflection.AssemblyTitleAttribute("004_Shape2DClass")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
