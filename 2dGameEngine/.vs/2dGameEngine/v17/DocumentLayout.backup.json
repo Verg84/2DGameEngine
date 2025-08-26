@@ -3,32 +3,28 @@
   "WorkspaceRootPath": "D:\\Repos\\2DGameEngine\\2dGameEngine\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{461ECBDA-59D9-48DB-B697-9507E6C42BC9}|008_CameraClass\\008_CameraClass.csproj|d:\\repos\\2dgameengine\\2dgameengine\\008_cameraclass\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{461ECBDA-59D9-48DB-B697-9507E6C42BC9}|008_CameraClass\\008_CameraClass.csproj|solutionrelative:008_cameraclass\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7DC43AA9-89A5-428A-B2E6-DA4070165F4D}|009_LevelManager\\009_LevelManager.csproj|d:\\repos\\2dgameengine\\2dgameengine\\009_levelmanager\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DC43AA9-89A5-428A-B2E6-DA4070165F4D}|009_LevelManager\\009_LevelManager.csproj|solutionrelative:009_levelmanager\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{461ECBDA-59D9-48DB-B697-9507E6C42BC9}|008_CameraClass\\008_CameraClass.csproj|d:\\repos\\2dgameengine\\2dgameengine\\008_cameraclass\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{461ECBDA-59D9-48DB-B697-9507E6C42BC9}|008_CameraClass\\008_CameraClass.csproj|solutionrelative:008_cameraclass\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7DC43AA9-89A5-428A-B2E6-DA4070165F4D}|009_LevelManager\\009_LevelManager.csproj|d:\\repos\\2dgameengine\\2dgameengine\\009_levelmanager\\demolevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DC43AA9-89A5-428A-B2E6-DA4070165F4D}|009_LevelManager\\009_LevelManager.csproj|solutionrelative:009_levelmanager\\demolevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{461ECBDA-59D9-48DB-B697-9507E6C42BC9}|008_CameraClass\\008_CameraClass.csproj|d:\\repos\\2dgameengine\\2dgameengine\\008_cameraclass\\source\\camera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{461ECBDA-59D9-48DB-B697-9507E6C42BC9}|008_CameraClass\\008_CameraClass.csproj|solutionrelative:008_cameraclass\\source\\camera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7DC43AA9-89A5-428A-B2E6-DA4070165F4D}|009_LevelManager\\009_LevelManager.csproj|d:\\repos\\2dgameengine\\2dgameengine\\009_levelmanager\\source\\engine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DC43AA9-89A5-428A-B2E6-DA4070165F4D}|009_LevelManager\\009_LevelManager.csproj|solutionrelative:009_levelmanager\\source\\engine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{461ECBDA-59D9-48DB-B697-9507E6C42BC9}|008_CameraClass\\008_CameraClass.csproj|d:\\repos\\2dgameengine\\2dgameengine\\008_cameraclass\\source\\engine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{461ECBDA-59D9-48DB-B697-9507E6C42BC9}|008_CameraClass\\008_CameraClass.csproj|solutionrelative:008_cameraclass\\source\\engine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7DC43AA9-89A5-428A-B2E6-DA4070165F4D}|009_LevelManager\\009_LevelManager.csproj|d:\\repos\\2dgameengine\\2dgameengine\\009_levelmanager\\source\\levelmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DC43AA9-89A5-428A-B2E6-DA4070165F4D}|009_LevelManager\\009_LevelManager.csproj|solutionrelative:009_levelmanager\\source\\levelmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{461ECBDA-59D9-48DB-B697-9507E6C42BC9}|008_CameraClass\\008_CameraClass.csproj|d:\\repos\\2dgameengine\\2dgameengine\\008_cameraclass\\source\\animation2d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{461ECBDA-59D9-48DB-B697-9507E6C42BC9}|008_CameraClass\\008_CameraClass.csproj|solutionrelative:008_cameraclass\\source\\animation2d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7DC43AA9-89A5-428A-B2E6-DA4070165F4D}|009_LevelManager\\009_LevelManager.csproj|d:\\repos\\2dgameengine\\2dgameengine\\009_levelmanager\\source\\level.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DC43AA9-89A5-428A-B2E6-DA4070165F4D}|009_LevelManager\\009_LevelManager.csproj|solutionrelative:009_levelmanager\\source\\level.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{461ECBDA-59D9-48DB-B697-9507E6C42BC9}|008_CameraClass\\008_CameraClass.csproj|d:\\repos\\2dgameengine\\2dgameengine\\008_cameraclass\\source\\animatedsprite2d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{461ECBDA-59D9-48DB-B697-9507E6C42BC9}|008_CameraClass\\008_CameraClass.csproj|solutionrelative:008_cameraclass\\source\\animatedsprite2d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{461ECBDA-59D9-48DB-B697-9507E6C42BC9}|008_CameraClass\\008_CameraClass.csproj|d:\\repos\\2dgameengine\\2dgameengine\\008_cameraclass\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{461ECBDA-59D9-48DB-B697-9507E6C42BC9}|008_CameraClass\\008_CameraClass.csproj|solutionrelative:008_cameraclass\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7DC43AA9-89A5-428A-B2E6-DA4070165F4D}|009_LevelManager\\009_LevelManager.csproj|d:\\repos\\2dgameengine\\2dgameengine\\009_levelmanager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DC43AA9-89A5-428A-B2E6-DA4070165F4D}|009_LevelManager\\009_LevelManager.csproj|solutionrelative:009_levelmanager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,93 +42,80 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Animation2D.cs",
-              "DocumentMoniker": "D:\\Repos\\2DGameEngine\\2dGameEngine\\008_CameraClass\\Source\\Animation2D.cs",
-              "RelativeDocumentMoniker": "008_CameraClass\\Source\\Animation2D.cs",
-              "ToolTip": "D:\\Repos\\2DGameEngine\\2dGameEngine\\008_CameraClass\\Source\\Animation2D.cs",
-              "RelativeToolTip": "008_CameraClass\\Source\\Animation2D.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAAAswAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-25T18:02:12.172Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "AnimatedSprite2D.cs",
-              "DocumentMoniker": "D:\\Repos\\2DGameEngine\\2dGameEngine\\008_CameraClass\\Source\\AnimatedSprite2D.cs",
-              "RelativeDocumentMoniker": "008_CameraClass\\Source\\AnimatedSprite2D.cs",
-              "ToolTip": "D:\\Repos\\2DGameEngine\\2dGameEngine\\008_CameraClass\\Source\\AnimatedSprite2D.cs",
-              "RelativeToolTip": "008_CameraClass\\Source\\AnimatedSprite2D.cs",
-              "ViewState": "AgIAAF0AAAAAAAAAAAAuwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-25T18:02:05.107Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Player.cs",
-              "DocumentMoniker": "D:\\Repos\\2DGameEngine\\2dGameEngine\\008_CameraClass\\Player.cs",
-              "RelativeDocumentMoniker": "008_CameraClass\\Player.cs",
-              "ToolTip": "D:\\Repos\\2DGameEngine\\2dGameEngine\\008_CameraClass\\Player.cs",
-              "RelativeToolTip": "008_CameraClass\\Player.cs",
-              "ViewState": "AgIAABcAAAAAAAAAAAAswCoAAAAaAAAAAAAAAA==",
+              "Title": "DemoLevel.cs",
+              "DocumentMoniker": "D:\\Repos\\2DGameEngine\\2dGameEngine\\009_LevelManager\\DemoLevel.cs",
+              "RelativeDocumentMoniker": "009_LevelManager\\DemoLevel.cs",
+              "ToolTip": "D:\\Repos\\2DGameEngine\\2dGameEngine\\009_LevelManager\\DemoLevel.cs*",
+              "RelativeToolTip": "009_LevelManager\\DemoLevel.cs*",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABgAAACUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-25T18:00:16.921Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Engine.cs",
-              "DocumentMoniker": "D:\\Repos\\2DGameEngine\\2dGameEngine\\008_CameraClass\\Source\\Engine.cs",
-              "RelativeDocumentMoniker": "008_CameraClass\\Source\\Engine.cs",
-              "ToolTip": "D:\\Repos\\2DGameEngine\\2dGameEngine\\008_CameraClass\\Source\\Engine.cs",
-              "RelativeToolTip": "008_CameraClass\\Source\\Engine.cs",
-              "ViewState": "AgIAACIAAAAAAAAAAAAQwDEAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-25T17:49:49.809Z",
+              "WhenOpened": "2025-08-26T10:08:46.641Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Camera.cs",
-              "DocumentMoniker": "D:\\Repos\\2DGameEngine\\2dGameEngine\\008_CameraClass\\Source\\Camera.cs",
-              "RelativeDocumentMoniker": "008_CameraClass\\Source\\Camera.cs",
-              "ToolTip": "D:\\Repos\\2DGameEngine\\2dGameEngine\\008_CameraClass\\Source\\Camera.cs",
-              "RelativeToolTip": "008_CameraClass\\Source\\Camera.cs",
-              "ViewState": "AgIAACoAAAAAAAAAAAAswBwAAAAWAAAAAAAAAA==",
+              "Title": "Engine.cs",
+              "DocumentMoniker": "D:\\Repos\\2DGameEngine\\2dGameEngine\\009_LevelManager\\Source\\Engine.cs",
+              "RelativeDocumentMoniker": "009_LevelManager\\Source\\Engine.cs",
+              "ToolTip": "D:\\Repos\\2DGameEngine\\2dGameEngine\\009_LevelManager\\Source\\Engine.cs",
+              "RelativeToolTip": "009_LevelManager\\Source\\Engine.cs",
+              "ViewState": "AgIAAIMAAAAAAAAAAAAUwJUAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-25T17:47:38.732Z",
+              "WhenOpened": "2025-08-26T10:07:51.456Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LevelManager.cs",
+              "DocumentMoniker": "D:\\Repos\\2DGameEngine\\2dGameEngine\\009_LevelManager\\Source\\LevelManager.cs",
+              "RelativeDocumentMoniker": "009_LevelManager\\Source\\LevelManager.cs",
+              "ToolTip": "D:\\Repos\\2DGameEngine\\2dGameEngine\\009_LevelManager\\Source\\LevelManager.cs",
+              "RelativeToolTip": "009_LevelManager\\Source\\LevelManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T08:56:53.64Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Level.cs",
+              "DocumentMoniker": "D:\\Repos\\2DGameEngine\\2dGameEngine\\009_LevelManager\\Source\\Level.cs",
+              "RelativeDocumentMoniker": "009_LevelManager\\Source\\Level.cs",
+              "ToolTip": "D:\\Repos\\2DGameEngine\\2dGameEngine\\009_LevelManager\\Source\\Level.cs",
+              "RelativeToolTip": "009_LevelManager\\Source\\Level.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T08:56:41.134Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Repos\\2DGameEngine\\2dGameEngine\\009_LevelManager\\Program.cs",
+              "RelativeDocumentMoniker": "009_LevelManager\\Program.cs",
+              "ToolTip": "D:\\Repos\\2DGameEngine\\2dGameEngine\\009_LevelManager\\Program.cs",
+              "RelativeToolTip": "009_LevelManager\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T18:25:57.249Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Game.cs",
-              "DocumentMoniker": "D:\\Repos\\2DGameEngine\\2dGameEngine\\008_CameraClass\\Game.cs",
-              "RelativeDocumentMoniker": "008_CameraClass\\Game.cs",
-              "ToolTip": "D:\\Repos\\2DGameEngine\\2dGameEngine\\008_CameraClass\\Game.cs",
-              "RelativeToolTip": "008_CameraClass\\Game.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAiwBQAAABNAAAAAAAAAA==",
+              "DocumentMoniker": "D:\\Repos\\2DGameEngine\\2dGameEngine\\009_LevelManager\\Game.cs",
+              "RelativeDocumentMoniker": "009_LevelManager\\Game.cs",
+              "ToolTip": "D:\\Repos\\2DGameEngine\\2dGameEngine\\009_LevelManager\\Game.cs*",
+              "RelativeToolTip": "009_LevelManager\\Game.cs*",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABcAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-25T17:45:33.729Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Repos\\2DGameEngine\\2dGameEngine\\008_CameraClass\\Program.cs",
-              "RelativeDocumentMoniker": "008_CameraClass\\Program.cs",
-              "ToolTip": "D:\\Repos\\2DGameEngine\\2dGameEngine\\008_CameraClass\\Program.cs",
-              "RelativeToolTip": "008_CameraClass\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-25T17:42:59.306Z",
+              "WhenOpened": "2025-08-25T18:24:39.023Z",
               "EditorCaption": ""
             }
           ]

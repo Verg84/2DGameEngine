@@ -17,7 +17,7 @@ namespace GameEngine
         public override void OnLoad()
         {
             player = new Player(new Vector2(400, 400), new Vector2(), "player");
-            cubeA = new Shape2D(Shape2D.SHAPES.RECTANGLE, new Vector2(400, 350), new Vector2(15, 15), "CUBE001", Color.Green, Color.Blue);
+            cubeA = new Shape2D(Shape2D.SHAPES.RECTANGLE, new Vector2(400, 350), new Vector2(15, 15), "CUBE001", Color.Blue, Color.Green);
             cubeB = new Shape2D(Shape2D.SHAPES.RECTANGLE, new Vector2(450, 350), new Vector2(15, 15), "CUBE001", Color.Green, Color.Blue);
 
         }
