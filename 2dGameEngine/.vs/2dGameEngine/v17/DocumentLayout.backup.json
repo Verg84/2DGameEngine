@@ -3,28 +3,32 @@
   "WorkspaceRootPath": "D:\\Repos\\2DGameEngine\\2dGameEngine\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7DC43AA9-89A5-428A-B2E6-DA4070165F4D}|009_LevelManager\\009_LevelManager.csproj|d:\\repos\\2dgameengine\\2dgameengine\\009_levelmanager\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7DC43AA9-89A5-428A-B2E6-DA4070165F4D}|009_LevelManager\\009_LevelManager.csproj|solutionrelative:009_levelmanager\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5D35821D-A375-475B-BFE3-AC30A8F0E932}|010_Physics2D\\010_Physics2D.csproj|d:\\repos\\2dgameengine\\2dgameengine\\010_physics2d\\source\\kinematicbody.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D35821D-A375-475B-BFE3-AC30A8F0E932}|010_Physics2D\\010_Physics2D.csproj|solutionrelative:010_physics2d\\source\\kinematicbody.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7DC43AA9-89A5-428A-B2E6-DA4070165F4D}|009_LevelManager\\009_LevelManager.csproj|d:\\repos\\2dgameengine\\2dgameengine\\009_levelmanager\\demolevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7DC43AA9-89A5-428A-B2E6-DA4070165F4D}|009_LevelManager\\009_LevelManager.csproj|solutionrelative:009_levelmanager\\demolevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5D35821D-A375-475B-BFE3-AC30A8F0E932}|010_Physics2D\\010_Physics2D.csproj|d:\\repos\\2dgameengine\\2dgameengine\\010_physics2d\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D35821D-A375-475B-BFE3-AC30A8F0E932}|010_Physics2D\\010_Physics2D.csproj|solutionrelative:010_physics2d\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7DC43AA9-89A5-428A-B2E6-DA4070165F4D}|009_LevelManager\\009_LevelManager.csproj|d:\\repos\\2dgameengine\\2dgameengine\\009_levelmanager\\source\\engine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7DC43AA9-89A5-428A-B2E6-DA4070165F4D}|009_LevelManager\\009_LevelManager.csproj|solutionrelative:009_levelmanager\\source\\engine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5D35821D-A375-475B-BFE3-AC30A8F0E932}|010_Physics2D\\010_Physics2D.csproj|d:\\repos\\2dgameengine\\2dgameengine\\010_physics2d\\source\\staticbody.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D35821D-A375-475B-BFE3-AC30A8F0E932}|010_Physics2D\\010_Physics2D.csproj|solutionrelative:010_physics2d\\source\\staticbody.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7DC43AA9-89A5-428A-B2E6-DA4070165F4D}|009_LevelManager\\009_LevelManager.csproj|d:\\repos\\2dgameengine\\2dgameengine\\009_levelmanager\\source\\levelmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7DC43AA9-89A5-428A-B2E6-DA4070165F4D}|009_LevelManager\\009_LevelManager.csproj|solutionrelative:009_levelmanager\\source\\levelmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5D35821D-A375-475B-BFE3-AC30A8F0E932}|010_Physics2D\\010_Physics2D.csproj|d:\\repos\\2dgameengine\\2dgameengine\\010_physics2d\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D35821D-A375-475B-BFE3-AC30A8F0E932}|010_Physics2D\\010_Physics2D.csproj|solutionrelative:010_physics2d\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7DC43AA9-89A5-428A-B2E6-DA4070165F4D}|009_LevelManager\\009_LevelManager.csproj|d:\\repos\\2dgameengine\\2dgameengine\\009_levelmanager\\source\\level.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7DC43AA9-89A5-428A-B2E6-DA4070165F4D}|009_LevelManager\\009_LevelManager.csproj|solutionrelative:009_levelmanager\\source\\level.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5D35821D-A375-475B-BFE3-AC30A8F0E932}|010_Physics2D\\010_Physics2D.csproj|d:\\repos\\2dgameengine\\2dgameengine\\010_physics2d\\source\\vector2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D35821D-A375-475B-BFE3-AC30A8F0E932}|010_Physics2D\\010_Physics2D.csproj|solutionrelative:010_physics2d\\source\\vector2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7DC43AA9-89A5-428A-B2E6-DA4070165F4D}|009_LevelManager\\009_LevelManager.csproj|d:\\repos\\2dgameengine\\2dgameengine\\009_levelmanager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7DC43AA9-89A5-428A-B2E6-DA4070165F4D}|009_LevelManager\\009_LevelManager.csproj|solutionrelative:009_levelmanager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5D35821D-A375-475B-BFE3-AC30A8F0E932}|010_Physics2D\\010_Physics2D.csproj|d:\\repos\\2dgameengine\\2dgameengine\\010_physics2d\\source\\engine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D35821D-A375-475B-BFE3-AC30A8F0E932}|010_Physics2D\\010_Physics2D.csproj|solutionrelative:010_physics2d\\source\\engine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D35821D-A375-475B-BFE3-AC30A8F0E932}|010_Physics2D\\010_Physics2D.csproj|d:\\repos\\2dgameengine\\2dgameengine\\010_physics2d\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D35821D-A375-475B-BFE3-AC30A8F0E932}|010_Physics2D\\010_Physics2D.csproj|solutionrelative:010_physics2d\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -43,79 +47,92 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "DemoLevel.cs",
-              "DocumentMoniker": "D:\\Repos\\2DGameEngine\\2dGameEngine\\009_LevelManager\\DemoLevel.cs",
-              "RelativeDocumentMoniker": "009_LevelManager\\DemoLevel.cs",
-              "ToolTip": "D:\\Repos\\2DGameEngine\\2dGameEngine\\009_LevelManager\\DemoLevel.cs*",
-              "RelativeToolTip": "009_LevelManager\\DemoLevel.cs*",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABgAAACUAAAAAAAAAA==",
+              "Title": "Player.cs",
+              "DocumentMoniker": "D:\\Repos\\2DGameEngine\\2dGameEngine\\010_Physics2D\\Player.cs",
+              "RelativeDocumentMoniker": "010_Physics2D\\Player.cs",
+              "ToolTip": "D:\\Repos\\2DGameEngine\\2dGameEngine\\010_Physics2D\\Player.cs",
+              "RelativeToolTip": "010_Physics2D\\Player.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-26T10:08:46.641Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Engine.cs",
-              "DocumentMoniker": "D:\\Repos\\2DGameEngine\\2dGameEngine\\009_LevelManager\\Source\\Engine.cs",
-              "RelativeDocumentMoniker": "009_LevelManager\\Source\\Engine.cs",
-              "ToolTip": "D:\\Repos\\2DGameEngine\\2dGameEngine\\009_LevelManager\\Source\\Engine.cs",
-              "RelativeToolTip": "009_LevelManager\\Source\\Engine.cs",
-              "ViewState": "AgIAAIMAAAAAAAAAAAAUwJUAAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-26T10:07:51.456Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "LevelManager.cs",
-              "DocumentMoniker": "D:\\Repos\\2DGameEngine\\2dGameEngine\\009_LevelManager\\Source\\LevelManager.cs",
-              "RelativeDocumentMoniker": "009_LevelManager\\Source\\LevelManager.cs",
-              "ToolTip": "D:\\Repos\\2DGameEngine\\2dGameEngine\\009_LevelManager\\Source\\LevelManager.cs",
-              "RelativeToolTip": "009_LevelManager\\Source\\LevelManager.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-26T08:56:53.64Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Level.cs",
-              "DocumentMoniker": "D:\\Repos\\2DGameEngine\\2dGameEngine\\009_LevelManager\\Source\\Level.cs",
-              "RelativeDocumentMoniker": "009_LevelManager\\Source\\Level.cs",
-              "ToolTip": "D:\\Repos\\2DGameEngine\\2dGameEngine\\009_LevelManager\\Source\\Level.cs",
-              "RelativeToolTip": "009_LevelManager\\Source\\Level.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-26T08:56:41.134Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Repos\\2DGameEngine\\2dGameEngine\\009_LevelManager\\Program.cs",
-              "RelativeDocumentMoniker": "009_LevelManager\\Program.cs",
-              "ToolTip": "D:\\Repos\\2DGameEngine\\2dGameEngine\\009_LevelManager\\Program.cs",
-              "RelativeToolTip": "009_LevelManager\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-25T18:25:57.249Z",
+              "WhenOpened": "2025-08-26T16:55:17.006Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Game.cs",
-              "DocumentMoniker": "D:\\Repos\\2DGameEngine\\2dGameEngine\\009_LevelManager\\Game.cs",
-              "RelativeDocumentMoniker": "009_LevelManager\\Game.cs",
-              "ToolTip": "D:\\Repos\\2DGameEngine\\2dGameEngine\\009_LevelManager\\Game.cs*",
-              "RelativeToolTip": "009_LevelManager\\Game.cs*",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABcAAAAxAAAAAAAAAA==",
+              "Title": "KinematicBody.cs",
+              "DocumentMoniker": "D:\\Repos\\2DGameEngine\\2dGameEngine\\010_Physics2D\\Source\\KinematicBody.cs",
+              "RelativeDocumentMoniker": "010_Physics2D\\Source\\KinematicBody.cs",
+              "ToolTip": "D:\\Repos\\2DGameEngine\\2dGameEngine\\010_Physics2D\\Source\\KinematicBody.cs",
+              "RelativeToolTip": "010_Physics2D\\Source\\KinematicBody.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAcwDYAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-25T18:24:39.023Z",
+              "WhenOpened": "2025-08-26T16:49:06.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StaticBody.cs",
+              "DocumentMoniker": "D:\\Repos\\2DGameEngine\\2dGameEngine\\010_Physics2D\\Source\\StaticBody.cs",
+              "RelativeDocumentMoniker": "010_Physics2D\\Source\\StaticBody.cs",
+              "ToolTip": "D:\\Repos\\2DGameEngine\\2dGameEngine\\010_Physics2D\\Source\\StaticBody.cs",
+              "RelativeToolTip": "010_Physics2D\\Source\\StaticBody.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAUwDUAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T15:11:00.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Vector2.cs",
+              "DocumentMoniker": "D:\\Repos\\2DGameEngine\\2dGameEngine\\010_Physics2D\\Source\\Vector2.cs",
+              "RelativeDocumentMoniker": "010_Physics2D\\Source\\Vector2.cs",
+              "ToolTip": "D:\\Repos\\2DGameEngine\\2dGameEngine\\010_Physics2D\\Source\\Vector2.cs",
+              "RelativeToolTip": "010_Physics2D\\Source\\Vector2.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAADwvz4AAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T15:09:07.367Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Engine.cs",
+              "DocumentMoniker": "D:\\Repos\\2DGameEngine\\2dGameEngine\\010_Physics2D\\Source\\Engine.cs",
+              "RelativeDocumentMoniker": "010_Physics2D\\Source\\Engine.cs",
+              "ToolTip": "D:\\Repos\\2DGameEngine\\2dGameEngine\\010_Physics2D\\Source\\Engine.cs",
+              "RelativeToolTip": "010_Physics2D\\Source\\Engine.cs",
+              "ViewState": "AgIAAHcAAAAAAAAAAAAuwIMAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T15:06:45.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Game.cs",
+              "DocumentMoniker": "D:\\Repos\\2DGameEngine\\2dGameEngine\\010_Physics2D\\Game.cs",
+              "RelativeDocumentMoniker": "010_Physics2D\\Game.cs",
+              "ToolTip": "D:\\Repos\\2DGameEngine\\2dGameEngine\\010_Physics2D\\Game.cs",
+              "RelativeToolTip": "010_Physics2D\\Game.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwBMAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T15:00:08.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Repos\\2DGameEngine\\2dGameEngine\\010_Physics2D\\Program.cs",
+              "RelativeDocumentMoniker": "010_Physics2D\\Program.cs",
+              "ToolTip": "D:\\Repos\\2DGameEngine\\2dGameEngine\\010_Physics2D\\Program.cs",
+              "RelativeToolTip": "010_Physics2D\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T14:54:22.848Z",
               "EditorCaption": ""
             }
           ]
